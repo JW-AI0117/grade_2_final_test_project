@@ -1,7 +1,7 @@
 #pragma once
 class exchange
 {
-	/// ¹°°ÇÀÇ ¹ÝÈ¯°ªÀ» ¸®ÅÏÇØÁÖ´Â ¸Þ¼­µå 
+	/// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È¯ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö´ï¿½ ï¿½Þ¼ï¿½ï¿½ï¿½ 
 public:
-	int exchangeMoney(char itemMoney, int M);
+	int exchangeMoney(int itemMoney, int M);
 };
