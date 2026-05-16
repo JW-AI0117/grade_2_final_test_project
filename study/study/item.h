@@ -1,6 +1,6 @@
 #pragma once
 static class item
 {
-public:
+protected:
 	int itemMoney(int num);
 };

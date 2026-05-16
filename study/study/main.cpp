@@ -17,5 +17,5 @@ void main()
 	printf("돈내놔. 10,000원 언더만 ㄱㄴ");
 	scanf("%d", &M);
 
-	printf("물건의 가격 %d원, 너가 낸 돈 %d원, 거스름돈 %d원", money, M, exchangePrice.exchangeMoney(money, M));
+	// printf("물건의 가격 %d원, 너가 낸 돈 %d원, 거스름돈 %d원", money, M, exchangePrice.exchangeMoney(money, M));
 }
