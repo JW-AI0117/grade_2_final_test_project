@@ -2,5 +2,5 @@
 static class item
 {
 public:
-	int itemMoney(int num,int** array);
+	int itemMoney(int num,int* array);
 };
