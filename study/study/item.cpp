@@ -20,5 +20,7 @@ int item::itemMoney(int num,int**array)
 	default:
 		printf("메뉴 중에서 골라주세요");
 	}
+	//TLqkf ㅈㄴ 웃기애ㅔ
+
 	return cash;
 }

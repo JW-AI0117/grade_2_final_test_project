@@ -10,22 +10,22 @@ void main()
 	int M;
 	item itemObj;
 	exchange exchangePrice;
-	set setting;
+	set setting;ㅇ모만우ㅑㅁ즁뮴ㄴ아ㅓㅜ
 	printf("물건을 판매할 예정입니다. 시발 반환해와라");
 	//여기서 set 함수
 	printf("번호 골라줘");
 	scanf_s("%d", &itemNum);
 	int money = itemObj.itemMoney(itemNum,);//여기 매개변수를 set 반환된 녀석을 주자 
 
-	printf("돈내놔. 10,000원 언더만 ㄱㄴ");
+	p
 	scanf_s("%d", &M);
 	while (1) {
 		if (M < money) {
-			printf("잔액이 부족 합니다 다시 해주셈");
+			printf("노무현이 액이 부족 합니다 다시 해주셈");
 			scanf_s("%d", &M);
 		}
 		else
-			break;
+	
 	}
 
 	printf("물건의 가격 %d원, 너가 낸 돈 %d원, 거스름돈 %d원", money, M, exchangePrice.exchangeMoney(money, M));
