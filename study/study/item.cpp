@@ -1,7 +1,7 @@
 #include "item.h"
 #include "stdio.h"
 
-int item::itemMoney(int num)
+int item::itemMoney(int num,int**array)
 {
 	//cash´Â ³»¾ßÇÒ µ·
 	int cash = 0;
